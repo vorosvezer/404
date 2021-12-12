@@ -1,0 +1,69 @@
+/******************************** TAG SELECTORS ********************************/
+
+body {
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  margin: 0;
+
+}
+
+h2 {
+  font-size: 1.75rem;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  color: #577BC1;
+}
+
+h3 {
+  font-size: 2.5rem;
+  position: absolute;
+  right: 100px;
+  top: 250px;
+  color: #577BC1;
+}
+
+a:hover {
+  color: black;
+}
+
+/******************************** CLASS SELECTORS ********************************/
+
+.number {
+  font-size: 3rem;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  color: #000957;
+}
+
+.error {
+  font-size: 3rem;
+  position: absolute;
+  right: 300px;
+  top: 85px;
+  color: white;
+}
+
+.copyright {
+  position: absolute;
+  color: #EAF6F6;
+  right: 30px;
+  bottom: 30px;
+}
+
+.dark {
+  text-decoration: none;
+  color: #FF5677;
+}
+
+.top-container {
+
+  position: relative;
+  padding-top: 280px;
+    background: linear-gradient(#344CB7, #000957);
+}
+
+.apu {
+  padding-bottom: 10px;
+}
