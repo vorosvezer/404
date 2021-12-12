@@ -1,10 +1,11 @@
 /******************************** TAG SELECTORS ********************************/
 
 body {
+  background: linear-gradient(#344CB7, #000957);
   font-family: 'Bebas Neue', cursive;
   text-align: center;
   margin: 0;
-  background: linear-gradient(#344CB7, #000957);
+  
 
 }
 
