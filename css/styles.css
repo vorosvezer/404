@@ -34,7 +34,7 @@ a:hover {
 .number {
   font-size: 3rem;
   position: absolute;
-  right: 300px;
+  left: 300px;
   top: 50px;
   color: #000957;
 }
@@ -42,7 +42,7 @@ a:hover {
 .error {
   font-size: 3rem;
   position: absolute;
-  right: 300px;
+  left: 300px;
   top: 85px;
   color: white;
 }
